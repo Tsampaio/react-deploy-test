@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-deploy-test/static/css/main.d1b05096.chunk.css",
+    "main.css": "/react-deploy-test/static/css/main.bf92f223.chunk.css",
     "main.js": "/react-deploy-test/static/js/main.6f2af5cf.chunk.js",
     "main.js.map": "/react-deploy-test/static/js/main.6f2af5cf.chunk.js.map",
     "runtime-main.js": "/react-deploy-test/static/js/runtime-main.a8eceecb.js",
@@ -8,16 +8,16 @@
     "static/js/2.89a14674.chunk.js": "/react-deploy-test/static/js/2.89a14674.chunk.js",
     "static/js/2.89a14674.chunk.js.map": "/react-deploy-test/static/js/2.89a14674.chunk.js.map",
     "index.html": "/react-deploy-test/index.html",
-    "precache-manifest.0aaa4fca0ab701b783b307774d72d721.js": "/react-deploy-test/precache-manifest.0aaa4fca0ab701b783b307774d72d721.js",
+    "precache-manifest.601fa3bce82bcfd1c43f7e32cb67ce8b.js": "/react-deploy-test/precache-manifest.601fa3bce82bcfd1c43f7e32cb67ce8b.js",
     "service-worker.js": "/react-deploy-test/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/react-deploy-test/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.bf92f223.chunk.css.map": "/react-deploy-test/static/css/main.bf92f223.chunk.css.map",
     "static/js/2.89a14674.chunk.js.LICENSE": "/react-deploy-test/static/js/2.89a14674.chunk.js.LICENSE",
     "static/media/telmo-pic.jpg": "/react-deploy-test/static/media/telmo-pic.8d963fa8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a8eceecb.js",
     "static/js/2.89a14674.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
+    "static/css/main.bf92f223.chunk.css",
     "static/js/main.6f2af5cf.chunk.js"
   ]
 }
